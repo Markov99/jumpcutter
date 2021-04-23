@@ -1,0 +1,1 @@
+C:\\Users\\Dmitry\\.virtualenvs\\jumpcutter-master-cM4059JZ\\Scripts\\python.exe jumpcutter.py --sounded_speed=1.5 --silent_speed=64 --frame_quality=1 --input_file=%1
